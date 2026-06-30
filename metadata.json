@@ -1,0 +1,6 @@
+{
+  "name": "RupeeSwift",
+  "description": "Premium instant personal loan application up to ₹50,000 with real-time dynamic CIBIL analysis, secure bank linking, instant simulated penny-drop verification, and smart virtual support assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
